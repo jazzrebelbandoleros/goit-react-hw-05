@@ -1,0 +1,11 @@
+.btn {
+  background-color: rgb(13, 125, 56);
+  border-color: black;
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  align-items: center;
+}

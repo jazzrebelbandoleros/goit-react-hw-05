@@ -1,0 +1,14 @@
+.list {
+  text-decoration: none;
+  list-style-type: none;
+  text-align: left;
+  color: #1d95b7;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.text {
+  color: rgb(13, 125, 56);
+  margin-top: 10px;
+  text-align: center;
+}
